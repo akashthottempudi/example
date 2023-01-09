@@ -1,2 +1,2 @@
 # example repository 
-sample repository 
+sample repository github
